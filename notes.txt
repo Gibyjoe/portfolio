@@ -45,6 +45,14 @@ to store source codes
 GIT Commands:
 - git status : check the status git inside a folder
 
-_ git init : create/initialise git repostory in a folder
+- git init : create/initialise git repository in a folder
 
 - git add . : used to track all the untracked file in the folder
+
+- git commit -m "message" : used to save/commit all files to git repository
+    configure the identity
+    git config--global user.email "email"
+    git config--global user.name "username"
+
+- paste the github url
+-git push origin master : to push the origin to the remote file
