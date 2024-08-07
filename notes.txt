@@ -1,0 +1,50 @@
+decoration when mouse over
+
+psedo class
+hover
+text decoration
+
+anchor tag - use inline-block to adjust margin
+use % for images and content margin
+
+    transform: translateX(-50%);
+
+.homeimage:hover #shape{
+bottom:  70px;
+}
+    
+
+        transition: bottom 2s, left 1s;
+
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+
+        margin: 15% 0px 0px 8%;
+
+    text-decoration: none;
+
+
+Grid: used to display content row and column, user can set width of row as well as column
+grid container :set display as grid
+Grid template row / column - used to set width of row / column
+grid item:
+
+
+For Animation
+-Animate.css
+-AOS (Animate on scroll library)
+-Locomotive
+
+web hosting web server
+-Netlify
+-Github
+-
+
+GIT -Version control system
+to store source codes 
+
+GIT Commands:
+- git status : check the status git inside a folder
+
+_ git init : create/initialise git repostory in a folder
+
+- git add . : used to track all the untracked file in the folder
